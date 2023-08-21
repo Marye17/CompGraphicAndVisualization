@@ -1,1 +1,4 @@
 # CompGraphicAndVisualization
+When designing software, I like to break the project into smaller chunks. I work on these pieces (and their cooresponding tests) individually until each one works on its own. I applied this approach when creating my scene as well, focusing each individual object, then once they were set and correct, focusing on environmental factors like lighting.
+Thanks to the layout of this class, the creation of the scene was done incrementally over the course of the term. First we learned how to make individual shapes, then we learned how to make multiple shapes and position them together. We learned textures and lighting one at a time as well, and eventually we were able to recreate the entire scene.
+The skills that I learned in this class will aid me by having a better understanding of how code is used graphically. 
